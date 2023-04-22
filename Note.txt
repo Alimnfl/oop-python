@@ -1,0 +1,5 @@
+Make game with OOP Python
+
+- Have 2 Object, Player & Monster
+Player = have Name, Health, Energy and Attack()
+Monster = have Name, Health and Attack()
